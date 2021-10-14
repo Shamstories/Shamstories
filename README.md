@@ -1,0 +1,3 @@
+I am attesting that this GitHub handle Shamstories is linked to the Tezos account tz1TCLG8ScAMjpe89pz4tp3mtAU87b3RKW4j for tzprofiles
+
+sig:edsigtkJGz6cksitinFjUXd5wEsLeEUzviGTwmMAw6nMQ6FcXSUfmhc4qJVZUqha4A5vtN1sVmLXu5Z68EAh1siYQeWmy7WB1bz
